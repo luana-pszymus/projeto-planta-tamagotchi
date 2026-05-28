@@ -96,6 +96,10 @@ Autores
 
 Feito por Luana Pszymus, Ana Basniak, Rafael Correa, Natali Lascoski
 
+Luana - código e hardware
+Ana - Artístico, desing, imagens e animações
+Rafael e Natali - documentação
+
 Licença
 
 Projeto open-source para fins de estudo e aprendizado.
